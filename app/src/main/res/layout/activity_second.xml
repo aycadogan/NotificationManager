@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_main__cl__root"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/activity_main__cl__root"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:background="@color/colorAccent"
     tools:context=".SecondActivity">
 
 </android.support.constraint.ConstraintLayout>
+
